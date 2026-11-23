@@ -168,6 +168,7 @@ export const projects: ProjectEntry[] = [
       "Designed session management and cross-agent communication logic to keep results coherent across multi-document synthesis.",
     ],
     tags: ["LangChain", "FAISS", "OpenAI API", "RAG"],
+    codeUrl: "https://github.com/Preshitajais21/multi-agent-research-assistant",
   },
   {
     slug: "ivbf-digital-twin",
@@ -244,6 +245,7 @@ export const projects: ProjectEntry[] = [
       "Validated semantic grounding between generated captions and image regions using CLIP similarity scoring.",
     ],
     tags: ["Streamlit", "CLIP", "BLIP", "Grad-CAM"],
+    codeUrl: "https://github.com/Preshitajais21/vlm-explainer",
   },
 ];
 
